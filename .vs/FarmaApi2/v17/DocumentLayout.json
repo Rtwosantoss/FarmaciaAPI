@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\interfaces\\ivendasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\interfaces\\ivendasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\services\\vendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\services\\vendasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\interfaces\\ivendasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\interfaces\\ivendasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\dtos\\vendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\dtos\\vendasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\entity\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\entity\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|c:\\users\\aluno\\desktop\\farmaapi1\\farmaapi\\farmaapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC0AF8F-E6EB-414E-80DB-4DFBF54D209D}|FarmaApi2\\FarmaApi2.csproj|solutionrelative:farmaapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "FarmaApi2\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:18:19.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVendasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IVendasRepository.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Interfaces\\IVendasRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IVendasRepository.cs",
+              "RelativeToolTip": "FarmaApi2\\Interfaces\\IVendasRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:15:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendasService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\VendasService.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Services\\VendasService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\VendasService.cs",
+              "RelativeToolTip": "FarmaApi2\\Services\\VendasService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:14:56.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Entity\\Product.cs",
+              "RelativeToolTip": "FarmaApi2\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:09:16.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VendasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\DTOs\\VendasDTO.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\DTOs\\VendasDTO.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\DTOs\\VendasDTO.cs",
+              "RelativeToolTip": "FarmaApi2\\DTOs\\VendasDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:08:06.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVendasServices.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IVendasServices.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Interfaces\\IVendasServices.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IVendasServices.cs",
+              "RelativeToolTip": "FarmaApi2\\Interfaces\\IVendasServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:03:50.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "FarmaApi2\\Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:45:15.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "FarmaApi2\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:41:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\ProductService.cs",
+              "RelativeToolTip": "FarmaApi2\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:32:33.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Services\\ClientService.cs",
+              "RelativeToolTip": "FarmaApi2\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:39:03.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FarmaApi2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T22:46:39.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Entity\\Vendas.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Entity\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Entity\\Vendas.cs",
+              "RelativeToolTip": "FarmaApi2\\Entity\\Vendas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:01:51.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Program.cs",
+              "RelativeDocumentMoniker": "FarmaApi2\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\Program.cs",
+              "RelativeToolTip": "FarmaApi2\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T00:12:06.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
