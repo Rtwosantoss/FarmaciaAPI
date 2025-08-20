@@ -447,23 +447,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aluno\\.nuget\\packages\\": {},
+    "C:\\Users\\AULA\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\FarmaApi2.csproj",
+      "projectUniqueName": "C:\\Users\\AULA\\Desktop\\Farmacia\\FarmaciaAPI\\FarmaApi2\\FarmaApi2.csproj",
       "projectName": "FarmaApi2",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\FarmaApi2.csproj",
-      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\FarmaAPI1\\FarmaApi\\FarmaApi2\\obj\\",
+      "projectPath": "C:\\Users\\AULA\\Desktop\\Farmacia\\FarmaciaAPI\\FarmaApi2\\FarmaApi2.csproj",
+      "packagesPath": "C:\\Users\\AULA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AULA\\Desktop\\Farmacia\\FarmaciaAPI\\FarmaApi2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AULA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,6 +1,6 @@
 ﻿namespace FarmaApi2.Entity
 {
-    public class Product
+    public class Product : Estoque
     {
         public int Id { get; set; }
         public string Name { get; set; }

@@ -65,6 +65,10 @@
           "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IProductService.cs",
@@ -74,8 +78,7 @@
               "RelativeToolTip": "FarmaApi2\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:18:19.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:18:19.027Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "FarmaApi2\\Interfaces\\IVendasRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:15:42.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:15:42.524Z"
             },
             {
               "$type": "Document",
@@ -100,8 +102,7 @@
               "RelativeToolTip": "FarmaApi2\\Services\\VendasService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:14:56.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:14:56.822Z"
             },
             {
               "$type": "Document",
@@ -113,8 +114,7 @@
               "RelativeToolTip": "FarmaApi2\\Entity\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:09:16.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:09:16.172Z"
             },
             {
               "$type": "Document",
@@ -126,8 +126,7 @@
               "RelativeToolTip": "FarmaApi2\\DTOs\\VendasDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:08:06.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:08:06.661Z"
             },
             {
               "$type": "Document",
@@ -139,12 +138,7 @@
               "RelativeToolTip": "FarmaApi2\\Interfaces\\IVendasServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:03:50.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-08-18T23:03:50.068Z"
             },
             {
               "$type": "Document",
@@ -156,8 +150,7 @@
               "RelativeToolTip": "FarmaApi2\\Interfaces\\IClientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T23:45:15.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T23:45:15.94Z"
             },
             {
               "$type": "Document",
@@ -169,8 +162,7 @@
               "RelativeToolTip": "FarmaApi2\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T23:41:07.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T23:41:07.41Z"
             },
             {
               "$type": "Document",
@@ -182,8 +174,7 @@
               "RelativeToolTip": "FarmaApi2\\Services\\ProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T23:32:33.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T23:32:33.436Z"
             },
             {
               "$type": "Document",
@@ -195,8 +186,7 @@
               "RelativeToolTip": "FarmaApi2\\Services\\ClientService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T23:39:03.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T23:39:03.863Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "FarmaApi2\\Entity\\Vendas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T23:01:51.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T23:01:51.338Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "FarmaApi2\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T00:12:06.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T00:12:06.162Z"
             }
           ]
         }

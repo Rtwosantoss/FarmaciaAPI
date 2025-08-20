@@ -1,5 +1,6 @@
 
 using FarmaApi2.Interfaces;
+using FarmaApi2.Services;
 
 namespace FarmaApi2
 {
@@ -21,6 +22,7 @@ namespace FarmaApi2
             builder.Services.AddScoped<IProductService>();
             var app = builder.Build();
 
+            builder.Services.AddTransient<IVendasServices, VendasService>
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
